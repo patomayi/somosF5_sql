@@ -1,6 +1,6 @@
 # Misión de investigación: SQL + Python + IA
 
-Emma Choque Sandoval - DAW, primer curso - Módulo: uso de Python con IA
+Emma Choque Sandoval - Curso IA SomosF5
 
 Repositorio con el código de la misión "SQL + Python + IA". Todo trabaja con una base de datos SQLite de práctica en memoria, con cinco películas ficticias (no hace falta descargar nada).
 
@@ -22,4 +22,3 @@ python ejemplo_basico.py
 ## Ficha de respuestas
 
 La ficha con las respuestas de los retos y la reflexión final está en el documento de Google que acompaña esta entrega.
-# exSQL_somosF5
